@@ -22,8 +22,8 @@ The **Language Translator** is a Flutter application designed to translate text 
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository_url>
-   cd language_translator
+   git clone https://github.com/Aaditya-Kumar-Mittal/flutter_project_language_translator.git
+   cd flutter_project_language_translator
    ```
 
 2. **Install dependencies**:
