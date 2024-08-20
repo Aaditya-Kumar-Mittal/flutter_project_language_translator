@@ -57,21 +57,20 @@ The **Language Translator** is a Flutter application designed to translate text 
 
 ## Screenshot
 
-<div align="center">
-  <table>
-  <tr>
-  <th>
-  Language Translator Display
-  </th>
-  </tr>
+<div style="margin:auto; width: 50%;">
+   <table>
+    <tr>
+      <th>
+        Language Translator Display
+      </th>
+    </tr>
     <tr>
       <td align="center">
-        <img src="assets/images/translator_1.png" alt="Language Translator">
+        <img src="assets/images/translator_1.png" alt="Language Translator" width="400px">
       </td>
     </tr>
   </table>
 </div>
-
 
 ## Future Enhancements
 
