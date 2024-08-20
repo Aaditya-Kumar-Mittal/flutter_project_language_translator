@@ -55,6 +55,24 @@ The **Language Translator** is a Flutter application designed to translate text 
 2. **Enter Text**: Input the text you want to translate into the provided text field.
 3. **Translate**: Click the "Translate" button to view the translated text.
 
+## Screenshot
+
+<div align="center">
+  <table>
+  <tr>
+  <th>
+  Language Translator Display
+  </th>
+  </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/images/translator_1.png" alt="Language Translator">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ## Future Enhancements
 
 - Add support for more languages.
